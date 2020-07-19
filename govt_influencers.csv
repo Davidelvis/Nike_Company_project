@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 African_govt_influencers,Twitter_name,screen_name,No. of followers,Country,No. of tweets,retweet_count,favorite_count,friends_count,status_count,Account_age,Average_tweets_per day
 Malawi Government,@MalawiGovt,MalawiGovt,39008,Malawi,3211,38959,31410,26,4030,2440,1.65
 Seychelles Ministry of Finance,@FinanceSC,FinanceSC,126,Seychelles,123,625,123,224,124,123,1.02
@@ -34,3 +35,41 @@ Muhammadu Buhari,@MBuhari,MBuhari,3265113,Nigeria,3216,1575924,3780305,26,4734,2
 Macky Sall,@Macky_Sall,Macky_Sall,1370436,Senegal,2794,184784,826314,171,2796,3678,0.78
 President Julius Maada Bio,@PresidentBio,PresidentBio,14591,Sierra leone,83,6613,39711,0,83,831,0.1
 Ministère de la Santé et de l'hygiène Publique,@MSPS_Togo,MSPS_Togo,1130,cote d ivoire,44,157,217,2,44,1614,0.03
+=======
+African_govt_influencers,Twitter_name,No. of followers,Country
+Malawi Government,@MalawiGovt,39008,
+Seychelles Ministry of Finance,@FinanceSC,126,
+Hage G. Geingob,@hagegeingob,191708,
+PresidencyZA,@PresidencyZA,1595331,
+Ministry of Health Zambia,@mohzambia,7092,
+President of Zimbabwe,@edmnangagwa,544351,
+MinSantédj,@MinSantedj,2914,
+Yemane G. Meskel,@hawelti,65881,
+State House Kenya,@StateHouseKenya,1100680,
+Paul Kagame,@PaulKagame,1978560,
+Mohamed Farmaajo,@M_Farmaajo,421125,
+South Sudan Government,@SouthSudanGov,2521,
+Abdalla Hamdok,@SudanPMHamdok,368099,
+TanzaniaSpokesperson,@TZSpokesperson,3994,
+Yoweri K Museveni,@KagutaMuseveni,1806255,
+Angola,@angola_Mirex,3256,
+Amb. Willy Nyamitwe,@willynyamitwe,107165,
+Chérif Mahamat Zene,@Cherif_MZ,18233,
+Présidence RDC,@Presidence_RDC,338342,
+Ali Bongo Ondimba,@PresidentABO,172803,
+Présidence du Bénin,@PresidenceBenin,30000,
+Roch KABORE,@rochkaborepf,255187,
+Presidente Cabo Verde,@PresidenciaCV,3266,
+Alassane Ouattara,@AOuattara_PRCI,827673,
+State House of The Gambia,@Presidency_GMB,10644,
+"Nana Akufo', 'Addo",@NAkufoAddo,1501262,
+Pr. Alpha CONDÉ,@President_GN,699,
+Umaro Sissoco Embalo,@USEmbalo,8460,
+Presidence Mali,@PresidenceMali,228014,
+Mohamed Cheikh El Ghazouani,@CheikhGhazouani,31586,
+Issoufou Mahamadou,@IssoufouMhm,115650,
+Muhammadu Buhari,@MBuhari,3265113,
+Macky Sall,@Macky_Sall,1370436,
+President Julius Maada Bio,@PresidentBio,14591,
+Ministère de la Santé et de l'hygiène Publique,@MSPS_Togo,1130,
+>>>>>>> c7b6726133e954397fea072d4504f523314962ae
