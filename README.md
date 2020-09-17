@@ -1,8 +1,6 @@
 
 ## Nike_company project on online campaign ##
-A kernel that scraps twitter handles of most influencial africans/leaders from some html pages and checks their popularity, social inclination and reach score based on their twitter data to determine if they're fit to partner with for the digital campaign.
-## Topic: 
-* African influencers: Twitter users segmentation  
+A kernel that scraps twitter handles of most influencial africans/leaders from some html pages and checks their popularity, social inclination and reach score based on their twitter data to determine if they're fit to partner with for the digital campaign.  
 ## Goal: 
 * Identify influencers rank position from Twitter data. 
 
